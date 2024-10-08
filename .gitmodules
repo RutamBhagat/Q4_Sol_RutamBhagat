@@ -1,0 +1,3 @@
+[submodule "extra/solana_cli_wallet"]
+	path = extra/solana_cli_wallet
+	url = git@github.com:RutamBhagat/solana_cli_wallet.git
